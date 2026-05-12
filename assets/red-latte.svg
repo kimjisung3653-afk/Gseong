@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 675" role="img" aria-labelledby="title desc">
+  <title id="title">빨간색 양귀비 라떼 일러스트</title>
+  <desc id="desc">조선풍 상 위에 빨간색 라떼가 담긴 유리잔이 놓여 있다.</desc>
+  <rect width="900" height="675" fill="#f1dfbd"/>
+  <path d="M0 500h900v175H0z" fill="#5b1518"/>
+  <path d="M120 92h660v405H120z" fill="#fff4d8" stroke="#b99045" stroke-width="12"/>
+  <path d="M162 135h576v318H162z" fill="#f6e8c5" stroke="#5b1518" stroke-width="4"/>
+  <g opacity=".22" stroke="#8b6b3d" stroke-width="2">
+    <path d="M168 185h564M168 245h564M168 305h564M168 365h564"/>
+    <path d="M222 138v312M310 138v312M398 138v312M486 138v312M574 138v312M662 138v312"/>
+  </g>
+  <ellipse cx="450" cy="513" rx="210" ry="42" fill="#2a0c0e" opacity=".32"/>
+  <path d="M337 213h226l-28 286c-4 42-38 72-85 72s-81-30-85-72z" fill="#f8f0df" stroke="#4a1618" stroke-width="10"/>
+  <path d="M363 306h174l-20 187c-3 28-30 48-67 48s-64-20-67-48z" fill="#b3192d"/>
+  <path d="M372 292c47-27 107-27 157 0" fill="none" stroke="#f7bac0" stroke-width="20" stroke-linecap="round"/>
+  <circle cx="414" cy="375" r="26" fill="#e85b62" opacity=".75"/>
+  <circle cx="492" cy="422" r="34" fill="#8c1123" opacity=".75"/>
+  <path d="M566 327c68-13 105 18 105 67 0 52-42 83-113 65" fill="none" stroke="#4a1618" stroke-width="22" stroke-linecap="round"/>
+  <path d="M385 210c26-34 45-34 71 0 27-34 46-34 72 0" fill="none" stroke="#b99045" stroke-width="8" stroke-linecap="round"/>
+  <text x="450" y="105" text-anchor="middle" font-family="serif" font-size="44" font-weight="700" fill="#4a1618">양귀비 라떼</text>
+</svg>

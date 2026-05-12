@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 675" role="img" aria-labelledby="title desc">
+  <title id="title">초록색 케이크 일러스트</title>
+  <desc id="desc">조선풍 접시 위에 초록색 크림 케이크가 놓여 있다.</desc>
+  <rect width="900" height="675" fill="#f4ead4"/>
+  <path d="M95 95h710v475H95z" fill="#fff6df" stroke="#315b4d" stroke-width="14"/>
+  <path d="M140 140h620v386H140z" fill="none" stroke="#c7a15a" stroke-width="5"/>
+  <g opacity=".18" stroke="#5b1518" stroke-width="2">
+    <path d="M150 198h600M150 278h600M150 358h600M150 438h600"/>
+    <path d="M230 148v370M330 148v370M430 148v370M530 148v370M630 148v370"/>
+  </g>
+  <ellipse cx="450" cy="530" rx="255" ry="56" fill="#2a0c0e" opacity=".25"/>
+  <ellipse cx="450" cy="506" rx="230" ry="62" fill="#c7a15a"/>
+  <path d="M255 332h390v140c0 57-87 103-195 103s-195-46-195-103z" fill="#8dcf86" stroke="#244d3a" stroke-width="10"/>
+  <ellipse cx="450" cy="332" rx="195" ry="72" fill="#b7e2a2" stroke="#244d3a" stroke-width="10"/>
+  <path d="M278 351c44 33 83 31 118-4 43 35 83 35 120 0 40 34 78 36 115 7" fill="none" stroke="#fff4d8" stroke-width="18" stroke-linecap="round"/>
+  <path d="M316 442h268" stroke="#244d3a" stroke-width="7" stroke-linecap="round" opacity=".45"/>
+  <path d="M330 486h240" stroke="#244d3a" stroke-width="7" stroke-linecap="round" opacity=".45"/>
+  <g fill="#315b4d">
+    <path d="M448 238c-30-38-16-74 37-104 11 53-1 89-37 104z"/>
+    <path d="M455 238c18-45 54-59 107-42-31 45-67 59-107 42z"/>
+  </g>
+  <circle cx="394" cy="302" r="13" fill="#f4ead4"/>
+  <circle cx="503" cy="292" r="12" fill="#f4ead4"/>
+  <circle cx="562" cy="326" r="10" fill="#f4ead4"/>
+  <text x="450" y="93" text-anchor="middle" font-family="serif" font-size="44" font-weight="700" fill="#244d3a">초록색 케이크</text>
+</svg>

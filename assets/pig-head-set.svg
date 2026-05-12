@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 675" role="img" aria-labelledby="title desc">
+  <title id="title">도원제 세트 돼지머리 일러스트</title>
+  <desc id="desc">조선풍 제사상 느낌의 접시에 돼지머리 장식이 놓여 있다.</desc>
+  <rect width="900" height="675" fill="#f5e7c9"/>
+  <path d="M84 104h732v455H84z" fill="#fff4d8" stroke="#5b1518" stroke-width="14"/>
+  <path d="M125 144h650v372H125z" fill="none" stroke="#c7a15a" stroke-width="5"/>
+  <path d="M0 488h900v187H0z" fill="#315b4d"/>
+  <ellipse cx="450" cy="520" rx="255" ry="56" fill="#2a0c0e" opacity=".28"/>
+  <ellipse cx="450" cy="500" rx="238" ry="72" fill="#c7a15a"/>
+  <ellipse cx="450" cy="487" rx="208" ry="50" fill="#fff1d0"/>
+  <path d="M304 302c-18-95 48-165 146-165s164 70 146 165c39 16 62 48 62 89 0 79-83 128-208 128s-208-49-208-128c0-41 23-73 62-89z" fill="#d98973" stroke="#64241e" stroke-width="10"/>
+  <path d="M318 286c-48-50-90-53-126-8 7 44 39 75 94 90" fill="#d98973" stroke="#64241e" stroke-width="10"/>
+  <path d="M582 286c48-50 90-53 126-8-7 44-39 75-94 90" fill="#d98973" stroke="#64241e" stroke-width="10"/>
+  <ellipse cx="450" cy="399" rx="86" ry="58" fill="#f2a08b" stroke="#64241e" stroke-width="8"/>
+  <circle cx="417" cy="397" r="13" fill="#64241e"/>
+  <circle cx="483" cy="397" r="13" fill="#64241e"/>
+  <circle cx="384" cy="305" r="17" fill="#241414"/>
+  <circle cx="516" cy="305" r="17" fill="#241414"/>
+  <path d="M400 460c35 22 66 22 100 0" fill="none" stroke="#64241e" stroke-width="9" stroke-linecap="round"/>
+  <g fill="#bf1f2f">
+    <circle cx="286" cy="500" r="21"/>
+    <circle cx="620" cy="500" r="21"/>
+    <circle cx="340" cy="531" r="16"/>
+    <circle cx="560" cy="531" r="16"/>
+  </g>
+  <text x="450" y="95" text-anchor="middle" font-family="serif" font-size="46" font-weight="700" fill="#4a1618">도원제 세트</text>
+</svg>
