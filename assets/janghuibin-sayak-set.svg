@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 675" role="img" aria-labelledby="title desc">
+  <title id="title">쌍화탕 잔을 든 장희빈 콘셉트 일러스트</title>
+  <desc id="desc">조선시대 궁중 분위기의 여인이 쌍화탕 잔을 들고 미소 짓고 있으며 앞에는 약과가 놓여 있다.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#f6ecd8" offset="0"/>
+      <stop stop-color="#d9c39a" offset="1"/>
+    </linearGradient>
+    <linearGradient id="hanbok" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#9d1f25" offset="0"/>
+      <stop stop-color="#491116" offset="1"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="35%" r="55%">
+      <stop stop-color="#fff3ce" stop-opacity="0.85" offset="0"/>
+      <stop stop-color="#fff3ce" stop-opacity="0" offset="1"/>
+    </radialGradient>
+    <pattern id="hanji" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M0 12h42M14 0v42M0 31h42M32 0v42" stroke="#8b6b3d" stroke-opacity=".12" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="900" height="675" fill="url(#paper)"/>
+  <rect width="900" height="675" fill="url(#hanji)"/>
+  <circle cx="450" cy="222" r="270" fill="url(#glow)"/>
+  <path d="M94 94h712v487H94z" fill="none" stroke="#6d1c22" stroke-width="14"/>
+  <path d="M126 126h648v423H126z" fill="none" stroke="#c6a35b" stroke-width="4"/>
+  <path d="M174 161c75-54 158-75 250-67 149 14 246 83 302 207 29 65 30 133 3 205H171c-24-62-23-121 3-178 26-58 60-99 100-123" fill="#ead9b6" opacity=".66"/>
+  <path d="M358 191c-4-50 32-91 89-91 58 0 94 41 90 91l-8 76H366z" fill="#1b1616"/>
+  <path d="M331 245c-26 39-39 83-39 134 0 60 32 101 90 124 41 16 90 17 133 2 63-22 98-66 98-127 0-51-14-95-41-133-44 29-86 43-124 43-39 0-78-14-117-43z" fill="#f4c9a9"/>
+  <path d="M351 236c32 31 64 46 98 46 34 0 69-15 105-46-9-54-47-89-104-89-54 0-90 35-99 89z" fill="#201818"/>
+  <path d="M370 318c12-7 27-7 39 0M491 318c13-7 28-7 41 0" fill="none" stroke="#3f211b" stroke-width="8" stroke-linecap="round"/>
+  <path d="M430 388c18 17 40 17 58 0" fill="none" stroke="#9d2c36" stroke-width="7" stroke-linecap="round"/>
+  <path d="M294 609c10-112 62-177 154-177s145 65 157 177z" fill="url(#hanbok)"/>
+  <path d="M448 432l-48 177h96z" fill="#f3ddad"/>
+  <path d="M392 454c38 47 75 47 112 0" fill="none" stroke="#c6a35b" stroke-width="11" stroke-linecap="round"/>
+  <path d="M612 374c42 7 72 31 92 73" fill="none" stroke="#f4c9a9" stroke-width="32" stroke-linecap="round"/>
+  <path d="M674 422c14-24 58-22 70 2 12 23-6 50-36 50-29 0-47-28-34-52z" fill="#7b2b1b"/>
+  <ellipse cx="708" cy="418" rx="38" ry="16" fill="#3f1b13"/>
+  <path d="M690 410c13-11 27-11 41 0" fill="none" stroke="#d8b76a" stroke-width="5" stroke-linecap="round"/>
+  <path d="M249 521c59-25 124-25 194 0" fill="none" stroke="#8a262b" stroke-width="28" stroke-linecap="round"/>
+  <ellipse cx="223" cy="586" rx="81" ry="29" fill="#6a2d18"/>
+  <g fill="#b96b2b" stroke="#7c3c1d" stroke-width="5">
+    <path d="M188 562l28 12 27-12 19 23-19 24-27-12-28 12-18-24z"/>
+    <path d="M218 553l24 10 24-10 16 21-16 21-24-10-24 10-16-21z"/>
+  </g>
+  <g fill="none" stroke="#f2c56c" stroke-width="4" stroke-linecap="round">
+    <path d="M202 584c13-10 26-10 39 0"/>
+    <path d="M231 575c12-8 24-8 36 0"/>
+  </g>
+  <text x="450" y="72" text-anchor="middle" font-family="serif" font-size="42" font-weight="700" fill="#4b1717">달달한 사약세트</text>
+</svg>
